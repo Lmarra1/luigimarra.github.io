@@ -3,6 +3,7 @@ title: Luigi Marra's homepage
 description: Hello there, this is my webpage!
 header_pages:
   - index.md
+  - about.md
   - research.md
   - teaching.md
   - contact.md
