@@ -1,13 +1,11 @@
 ---
 layout: default
-title: Home
+title: Main Page
+permalink: /
 ---
-# Welcome to Luigi Marra's Website
+# About Me
+Welcome to my personal website. Here you can learn more about my research, teaching, and professional activities.
 
-You can visit the following pages:
-
-- [About](about/)
 - [Research](research/)
-- [Projects](projects/)
-- [Outcomes](outcomes/)
+- [Teaching](teaching/)
 - [Contact](contact/)
