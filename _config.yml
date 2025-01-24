@@ -5,9 +5,9 @@ description: Hello there, this is my webpage!
 
 
 header_pages:
-  - About.md
-  - Research.md
-  - Projects.md
-  - Outcomes.md
-  - Contact.md
+  - about.md
+  - research.md
+  - projects.md
+  - outcomes.md
+  - contact.md
 
