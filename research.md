@@ -3,8 +3,20 @@ layout: page
 title: Research
 permalink: /research/
 ---
-# My Research
-Here are some of the key areas of my research:
-- **Area 1**: Description of research area.
-- **Area 2**: Description of research area.
-- **Area 3**: Description of research area.
+# Research Overview
+Here are the main areas of my research:
+
+## Publications
+- [Publication 1](#)
+- [Publication 2](#)
+- [Publication 3](#)
+
+## Projects
+- [Project 1](#)
+- [Project 2](#)
+- [Project 3](#)
+
+## Dissemination Activities
+- [Activity 1](#)
+- [Activity 2](#)
+- [Activity 3](#)
