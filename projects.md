@@ -1,3 +1,3 @@
 layout: page
 title: "Projects"
-permalink: /research/
+permalink: /research/projects
