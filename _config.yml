@@ -2,4 +2,7 @@ theme: jekyll-theme-dinky
 title: Luigi Marra's homepage
 description: Hello there, this is my webpage!
 header_pages:
-  - about.md
+  - index.md
+  - Research.md
+  - Teaching.md
+  - Contact.md
